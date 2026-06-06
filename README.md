@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Code Not Yet Pushed** — This repository currently contains only a design document. The source code has not been committed to GitHub. The architecture, algorithms, and performance metrics described below reflect the intended system design; implementation is ongoing.
+
+---
+
 # 🤖 Autonomous Precision Manipulation System (APMS)
 
 ## Overview
